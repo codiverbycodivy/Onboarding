@@ -33,10 +33,6 @@ Take initiative in exploring additional learning opportunities and resources ava
 
 Stay proactive and exhibit a strong willingness to learn and grow throughout your internship, leveraging the structured path provided to maximize your results.
 
-Pitching or FGD (Focus Group Discussion):
-
-At the conclusion of your internship, you'll have the opportunity to participate in a pitching session or focus group discussion (FGD) where you'll present your findings, strategies, and insights to a panel of stakeholders. This session aims to showcase your learnings, growth, and contributions during your internship and provide valuable feedback for your professional development.
-
 Skill Sets You Will Build:
 
 Ethical Data Analysis Practices: Ensure ethical standards in data analysis, addressing issues of bias and credibility.
